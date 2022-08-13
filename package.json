@@ -1,5 +1,5 @@
 {
-  "name": "landing-page-bootstrap",
+  "name": "product-page",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,7 +19,9 @@
     "sass": "^1.54.1"
   },
   "browserslist": [
-    "last 2 versions",
-    ">1%"
+    "> 1%",
+    "maintained node versions",
+    "not dead",
+    "last 2 versions"
   ]
 }
